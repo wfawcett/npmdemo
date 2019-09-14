@@ -1,0 +1,19 @@
+{
+  "name": "npmdemo",
+  "version": "1.0.0",
+  "description": "NPM Demo for CS-3750",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wfawcett/npmdemo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wfawcett/npmdemo/issues"
+  },
+  "homepage": "https://github.com/wfawcett/npmdemo#readme"
+}
